@@ -16,7 +16,7 @@ from flask import Flask # Render hosting ke liye Flask zaruri hai
 # ⚙️ SYSTEM CONFIGURATION
 # ==========================================
 
-TOKEN = '8426168322:AAFzZgblxuREms-__spalcsti2dDNuLxseI' 
+TOKEN = '8798383938:AAF2CTlTkh_8tzpu_Hl94RcaBFtBsF7o_kQ' 
 OWNER_ID = 8448533037
 
 # 📂 CHANNELS & GROUPS SETUP (REQUIREMENTS)
